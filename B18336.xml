@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An alarm to all flesh with an invitation to the true seeker forthwith to flye for his life (clearly) out of the short-lived Babylon into the life ... also, a word of encouragement to the faithful to be faithful still / by E.B.</title>
+         </titleStmt>
+         <extent>Approx. 26KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18336</idno><idno type="EEBO-CITATION">8481180</idno>
+  <idno type="VID">204294</idno>
+  <idno type="EEBO-PROQUEST">2264207978</idno>
+  
+            <idno type="STC">Wing B5981</idno>
+            <idno type="OCLC">08481180</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18336)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204294)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1248:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An alarm to all flesh with an invitation to the true seeker forthwith to flye for his life (clearly) out of the short-lived Babylon into the life ... also, a word of encouragement to the faithful to be faithful still / by E.B.</title>
+                  <author>Burrough, Edward, 1634-1662.</author>
+                  <author>Billing, Edward, 1623-1686.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Variously attributed to Edward Billing and Edward Burrough.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Repentance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204294:1"/>
+            <pb facs="tcp:204294:2"/>
+            <pb facs="tcp:204294:2"/>
+            <p>AN ALARM TO ALL FLESH: WITH AN INVITATION To the true SEEKER, FORTHWITH To flye for his Life (Clearly) out of the short-lived <hi>Babylon,</hi> into <hi>the Life;</hi> out of words, into <hi>the Word;</hi> out of the many and changeable Likenesses, into <hi>Him,</hi> the same yesterday, to day, for ever and ever.</p>
+            <p>
+               <hi>ALSO,</hi> A Word of Encouragement to the Faithful, to be Faithful still.</p>
+            <p>By <hi>E. B.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilson,</hi> at the sign of the <hi>Black spread-Eagle</hi> and <hi>Wind-Mill</hi> in <hi>Martins l' Grand,</hi> 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:204294:3"/>
+            <pb facs="tcp:204294:3"/>
+            <head>A WORD TO THE READER.</head>
+            <p>LEt all Flesh be silent, fear and forbear to speak evil of Dig<g ref="char:EOLhyphen"/>nities, the Power &amp; the thing they know not: I say unto all, Harden not your hearts against the Lord and his annointed; but whilest it is to day, turn in, repent, and hear his Voice; for its hard for ye to kick against the pricks; and it's impossible for ye to impede the holy One in his Decree; and he that will not bow before him, shall be shattered like a Potters Vessel, and the Scoffers Bonds shall be made strong; and the
+<pb facs="tcp:204294:4"/> Mower saith, <hi>All Flesh is Grass;</hi> and the Sinner of an hundred yeares old shall dye accursed, and the very memo<g ref="char:EOLhyphen"/>ry of the Wicked shall rot: But the Name of the Just shall live for ever.</p>
+            <closer>
+               <signed>E. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:204294:4"/>
+            <head>An <hi>Alarm</hi> to all Flesh; with an Invi<g ref="char:EOLhyphen"/>tation to the true <hi>Seeker,</hi> forthwith to flye for his Life (clearly) out of the short-liv'd Babylon, into the Life, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>HOwle, howle, shrick, yell</hi> and <hi>roar,</hi> ye Lustful, Cursing, Swearing, Drunken, Lewd, Superstiti<g ref="char:EOLhyphen"/>ous, Devillish, Sensual, <hi>Earthly Inhabitants</hi> of the whole Earth; <hi>Bow, bow</hi> ye most surley Trees, and lofty Oaks, ye tall Cedars, and low Shrubs, <hi>Cry out a<g ref="char:EOLhyphen"/>loud; <hi>hear, hear</hi>
+               </hi> ye proud Waves, and boistrous Seas, also <hi>li<g ref="char:EOLhyphen"/>sten</hi> ye uncircumcised, stiff-necked, and mad-raging <hi>Bubbles,</hi> who even hate to be reformed.</p>
+            <p>In the Name of the Lord God of Gods, and King of Kings, <hi>Hear, hear; Repent, Repent,</hi> forthwith <hi>Repent;</hi> for be as sure as the Lord liveth, ye shall <hi>feel</hi> (though ye will not <hi>see</hi> nor <hi>hear</hi>) the Irresistable and Mighty Hand of the Almighty Lord God of Heaven and Earth; yea <hi>he can, he will <hi>overtake ye</hi>
+               </hi> suddenly; and in a moment ye are not <hi>aware of,</hi> will he for ever <hi>raze down</hi> your whole Fabrick of Prophaneness and Su<g ref="char:EOLhyphen"/>perstiton (to wit) the Builders and the Built; for witnesse O <hi>Heaven,</hi> and know oh <hi>Earth, Earth,</hi> that the Lord God hath not <hi>pull'd down <hi>Hypocrisie</hi> to establish <hi>Idolatry:</hi>
+               </hi> And this is the Word of the Lord God to all ye who live in pleasure, wantonness and fulness of Bread, being dead whilest ye seem<g ref="char:EOLhyphen"/>ingly live, <hi>Prepare to meet the pure God of the Righteous, Inno<g ref="char:EOLhyphen"/>cent, and</hi> (by ye) <hi>Oppressed Seed;</hi> For behold, his Invincible, Glittering, Invisible Sword is on his Thigh; and he whose Eye to the Light is kept in his Head, sees it; and the whole Sensua<g ref="char:EOLhyphen"/>lists upon the whole Earth, shall feel (if they will not see)
+<pb n="2" facs="tcp:204294:5"/> that <hi>he can, <hi>he will</hi>
+               </hi> in a moment <hi>deliver his whole Seed</hi> from under the Bondage of their cruel and unreasonable Task-Masters, and <hi>Crown his own Seed</hi> in the face and Power of the Son; Then shall the <hi>Bashan Oaks, Ismaels</hi> and <hi>Diveses</hi> of this Generation, <hi>roar</hi> and <hi>reel,</hi> yea <hi>shake</hi> and <hi>quake, <hi>look upward and downward,</hi>
+               </hi> and <hi>curse their Leaders and their God,</hi> which now is their Lusts, Bellyes, Superstitions and Pleasures. <hi>Horror</hi> shall lay hold <hi>on their right,</hi> and <hi>Terror</hi> shall seize upon <hi>their left Hand;</hi> Every man's Hands shall be upon his Loyns, and the Cry shall be, <hi>Who will shew us any Good?</hi> And an unparallel'd Dart of Amazement shall pierce quite through the Liver of the Champion, (insomuch that he shall Implore the Despised, to shew him the Way:) And <hi>a Remediless</hi> and <hi>Importable Confusion</hi> shall be in the very <hi>In<g ref="char:EOLhyphen"/>most</hi> middle of them; The <hi>Judge</hi> and <hi>Mighty Pursuer</hi> of e<g ref="char:EOLhyphen"/>very man, shall be (then known) <hi>in his own Breast,</hi> and they shall not have any remedying Help left in the Earth. I say, (not I, but the Lord) in that Day <hi>the whole Inter<g ref="char:EOLhyphen"/>est</hi> of the Wicked shall be utterly <hi>be-feebled,</hi> and <hi>Rotten<g ref="char:EOLhyphen"/>ness</hi> shall seize upon them all, as one man; and they shall be but <hi>one Intire Lump,</hi> fit to <hi>Receive</hi> (not able to resist) <hi>the fierce Wrath</hi> of the long-provoked God of the Oppres<g ref="char:EOLhyphen"/>sed; for whose sake he will work Wonders, yea he will ac<g ref="char:EOLhyphen"/>complish unutterable things in, and upon the Earth: (<hi>The I am, <hi>a Consuming Fire, hath spoken it.) Then shall the whole Brood of Evil-doers,</hi>
+               </hi> whose Tongues in this their Day (which also is the Day of <hi>Jacob's</hi> Troubles) walk too and fro tho<g ref="char:EOLhyphen"/>rough the Earth, making a Mock at Sin, turning their Day of Mercy into Superstition, Swearing, Cruelty, Wanton<g ref="char:EOLhyphen"/>ness, Feasting, Plays, Sports, and Lasciviousness, <hi>gnash <hi>their teeth, and</hi> gnaw <hi>their Tongues for very pain;</hi>
+               </hi> and even as they have made shipwrack <hi>of a good,</hi> or that of the good God in <hi>their Consciences;</hi> so shall themselves, their <hi>Accomplices or Assistants,</hi> be wreaked, mangled, and spoiled,<note n="*" place="margin">Yea the Prophane as well as the Hypo<g ref="char:EOLhyphen"/>crite, shall flye when no man pursueth.</note> for the Spoyler hath been, and yet shall be spoiled. The <hi>All-trying, All seeing, Pitiful God</hi> of the
+<pb n="3" facs="tcp:204294:5"/> spoiled hath said it, who will compleatly perform <hi>to the lat<g ref="char:EOLhyphen"/>ter,</hi> and to <hi>the former,</hi> every one according to his Deserts and Degrees of <hi>(done) <hi>Cruelty;</hi>
+               </hi> For <hi>know,</hi> O <hi>Worst,</hi> and <hi>believe,</hi> O <hi>Best of Men,</hi> God is Just, and he never did, nor at this day doth, nor in that (most terrible) hour will re<g ref="char:EOLhyphen"/>spect the person of any Mortal: And whosoever thinks his Person <hi>is Reverend, Worshipful, Sacred, Honorable,</hi> or <hi>Ho<g ref="char:EOLhyphen"/>ly,</hi> and can one moment impede the Wrath of God (which I say will swiftly thunder down, and light upon all that's fleshly) is a foolish Blasphemer; for <hi>Right Honourable, Worshipful, Sacred, Holy</hi> and <hi>Reverend is the Name of him who made Heaven and Earth;</hi> and <hi>onely him</hi> who hath revea<g ref="char:EOLhyphen"/>led and will perform; To whom be ascribed as is directly due, <hi>all Might, Power, Dominion, Glory</hi> and <hi>Majesty,</hi> now and for ever; Even <hi>so be it</hi> acknowledged by all who know and fear his Name, <hi>Amen,</hi> and <hi>Amen.</hi> Which Lord over all, is <hi>exactly jealous</hi> of <hi>his Honour,</hi> and will not <hi>give it</hi> (though too too many rob him) <hi>to another:</hi> But that soul which believes, and in word and deed is subject to the Higher Power, and Rules in God, is worthy of double Honour: And such seek not the Honour of man which is from below in the fall, in the Curse, in the Hellish Darkness, in the Name and Authority of him who spake of himself, which was, and is a Lyar from his Beginning: But in the Light I see Light, the brightness of whose coming, who will come quickly, and will not tarry long (before whom the whole <hi>Arm of Flesh</hi> must <hi>wither, bow, submit,</hi> or <hi>breake</hi>) shall <hi>blast</hi> all this <hi>as untimely fruit,</hi> and shall say to every individual <hi>Tree, Sucker, Sient, Graft</hi> or <hi>Plant,</hi> or <hi>ignoble Vine,</hi> which his own Right Hand hath not planted (or is become a degenerate Plant) <hi>Be thou accursed from hence<g ref="char:EOLhyphen"/>forward, never more grow so much as leaves upon thee in the least, to hide thy shame, or cover thy Deceit.</hi> Then shall <hi>a holy Nation</hi> be born <hi>in a day,</hi> and the memory of the <hi>pro<g ref="char:EOLhyphen"/>phane</hi> shall <hi>rot</hi> and <hi>perish</hi> like their own Dung; and in their rooms shall be fixed (as the Stars of the Firmament) <hi>peace and good will upon Earth, Counsellors as at the first, and Judges
+<pb n="4" facs="tcp:204294:6"/> as at the beginning.</hi> Also in that day shall <hi>the Truce-breaking Hypocrites,</hi> for their mocking of God, their Earthly-min<g ref="char:EOLhyphen"/>dedness, their causing the way of truth (in this day) to be blasphemed, and not doing the Work of the Lord faithful<g ref="char:EOLhyphen"/>ly, and for their persecuting (in their past day) the inno<g ref="char:EOLhyphen"/>cent Lambs of Christ, who would have done the Work without Sword or Rapine; I say, in this the Lord's Day which hastens, shall <hi>they feel ten times triple the vengeance of the Lord, of which they have already an earnest;</hi> but that is to them <hi>but the beginning of sorrows;</hi> for their <hi>latter end</hi> shall be <hi>worse</hi> then <hi>their beginning.</hi>
+            </p>
+            <p>And this is the Word of the living God to thee <hi>O Eu<g ref="char:EOLhyphen"/>rope,</hi> falsely (now) called <hi>Christendom;</hi> and to the <hi>Prophane,</hi> the <hi>Superstitious,</hi> the <hi>Idolatrous,</hi> the <hi>Oppressors</hi> (of the Just) the <hi>Hypocrites,</hi> and all the <hi>super-abounding swarms of Anti<g ref="char:EOLhyphen"/>christs</hi> and <hi>false Prophets</hi> within thee; from him that is by the now disorderly World permitted <hi>to beg,</hi> even <hi>to him</hi> that fits upon the highest <hi>Earthly Throne,</hi> or pretends to usurp the <hi>Spiritual Throne,</hi> to make and prescribe Laws there (to wit) in the Conscience of man, which is the rightful Seat and Temple of the living God onely; and the <hi>Rebel</hi> and <hi>Usur<g ref="char:EOLhyphen"/>per</hi> he hates, and the Hypocrite shall not enter within his Rest; I say, This is the Word of the Lord to <hi>that part</hi> of the World call'd <hi>Christendom,</hi> but most especially, particu<g ref="char:EOLhyphen"/>larly and immediately <hi>to thee O England,</hi> the Land of my Nativity.</p>
+            <p>First, to all the prophane within thee, who rush into all sorts of Iniquity, even as the horse into the Battel, most greedily <hi>bowing the knee to Baal,</hi> striking hands <hi>with all man<g ref="char:EOLhyphen"/>ner of Superstition, Idolatry</hi> and <hi>Uncleanness,</hi> crying <hi>Aloud</hi> with the false Prophets, <hi>A Confederacy, A Confederacy</hi> with whatsoever is against the Lord and his Annointed. As also <hi>to the very Best</hi> and well-favoured (as well as worst) Pharisaical Hypocritically-Religious Harlot, and to all thy whited Walls within thy utmost Confines, whose pretences have been, and still are as broad and large as from thy Sea to Sea, <hi>(Ah pooor abused Land!)</hi> But they are but pre<g ref="char:EOLhyphen"/>tences
+<pb n="5" facs="tcp:204294:6"/> of intruding pretenders, they have been tryed to the full; and God the Lord hath laid his Ax to the very root of them that <hi>vowed</hi> (in his presence) <hi>and not performed;</hi> and they are but for the present <hi>hewn up,</hi> bundled together (left to themselves) <hi>marked</hi> and <hi>cast by</hi> from further cum<g ref="char:EOLhyphen"/>bering God's ground, and that every man may say, <hi>that's he,</hi> or, <hi>that's one of them;</hi> but be as sure as the Lord God of Vengeance liveth, he will hereafter plead with them in the Valley of Decision, <hi>[mark that]</hi> when neither <hi>Moun<g ref="char:EOLhyphen"/>tain, Flesh</hi> nor <hi>Hill,</hi> shall scarcely so much as <hi>pity,</hi> or <hi>cry, <hi>Alas</hi> for thee.</hi> And although thou hast abused <hi>thy</hi> self, de<g ref="char:EOLhyphen"/>ceived <hi>the simple,</hi> and betrayed <hi>the innocent, day</hi> after <hi>day, time</hi> after <hi>time,</hi> and <hi>season</hi> after <hi>season,</hi> into the hands of unreasonable men, (and hast murdered several of the inno<g ref="char:EOLhyphen"/>cent Lambs) yet now deceive not thy self one jot longer, God <hi>(is not)</hi> will never again by thee <hi>be mocked,</hi> but will (I say) plead and reckon most severely with thee <hi>in the Valley of Decision,</hi> and thou shalt be the <hi>miserablest</hi> and <hi>wretchedst</hi> of man-kind: In which day <hi>no flesh,</hi> or any thing that's <hi>fleshly,</hi> shall be <hi>saved;</hi> or <hi>self</hi> to <hi>its self</hi> helpful, useful, or in the least advantageous.</p>
+            <p>And if the <hi>Prophane</hi> and <hi>Professor</hi> can command <hi>the Sun <hi>from shining,</hi> the Sea <hi>from fluxing</hi>
+               </hi> and <hi>refluxing,</hi> or the <hi>Eter<g ref="char:EOLhyphen"/>nal Light <hi>from in,</hi>
+               </hi> or <hi>within-lightning every man that cometh into the world,</hi> that thereby all men might believe and be sa<g ref="char:EOLhyphen"/>ved: Then they may say, <hi>Tush, <hi>there is no God, this shall not come to pass.</hi>
+               </hi>
+            </p>
+            <p>But <hi>then,</hi> even <hi>then</hi> in the midst of all this will the Lord pity the <hi>little, little Remnant,</hi> his own Seed, and grasp them in the hollow of his hand, and hide (at least) a <hi>Remnant</hi> of a <hi>Remnant</hi> under his own Pavillion; yea [in that day] the Lord will answer his people, and say unto them, <hi>Behold, I will send ye Corn, Wine and Oyle, in as much as ye shall be satis<g ref="char:EOLhyphen"/>fied therewith; and ye shall eat in the secret-Plenty, and be fully satisfied, praising the Lord your God for ever and ever, that hath dealt wonderfully with you; for I Jehovah am the Lord your God, and my people shall never be ashamed, extinguished, or confoun<g ref="char:EOLhyphen"/>ded.</hi>
+            </p>
+            <pb n="6" facs="tcp:204294:7"/>
+            <p>Wherefore know <hi>O Vniverse,</hi> in vain are all <hi>thy Hell-deep-Plottings <hi>against</hi> the Seed Immortal;</hi> for <hi>the Man-Child</hi> which was caught up to God, <hi>is come down,</hi> and <hi>the woman</hi> is returning out of the <hi>Wilderness;</hi> and the <hi>Beast,</hi> Floods, unstable Waters, <hi>Dragon</hi> and <hi>false Prophets,</hi> must be (in the life) trampled under, and the Gospel must be prea<g ref="char:EOLhyphen"/>ched again to <hi>Nations, Kindreds, Tongues</hi> and <hi>Peoples;</hi> and <hi>Amos</hi> the now dejected <hi>Herdsman,</hi> must not, shall not be prohibited from entering into <hi>the Chappel of a King.</hi> Wherefore let the weak in the Lord say, <hi>I am strong;</hi> but let the knees of the Rebellious <hi>fail him,</hi> and let them be forced down to the Valley of God's Controversie: Get thee down (saith the Lord) for the Press is full; and the Fats of thy Idolatrous Abominations overflow &amp; stink, and thy super-abundant Wickedness hath (and hourly doth) provoke the just God, and grieve the souls of his righteous <hi>Lots,</hi> yea the Lot of his own Inheritance; but <hi>the wickedness</hi> of <hi>the wicked</hi> shall <hi>be stopt,</hi> and <hi>a hook</hi> of the mighty Strength shall <hi>be riveted into the Jaws of the Levia<g ref="char:EOLhyphen"/>than,</hi> and the teeth of <hi>that Conscience-Oppressor</hi> shall be ut<g ref="char:EOLhyphen"/>terly <hi>broken;</hi> And although <hi>Baal</hi> and his <hi>Priests</hi> may strive to hinder this, (and confound each other) and the gree<g ref="char:EOLhyphen"/>dy dumb dogs, the blind Watch-men who Divine for money, pieces of bread, and hand-fulls of Barley, should or may in the strength of (and for) Wine, and strong Meats, prophesie lyes of Deliverance, (and be believed by any as blind as themselves) <hi>verily, verily</hi> they shall not save <hi>themselves,</hi> nor one creature (that continues to believe in their Sorceries) <hi>out of the Ditch.</hi>
+            </p>
+            <p>And the <hi>Armed man</hi> in that day shall not be able to strengthen <hi>his Force,</hi> nor <hi>the Mighty Man</hi> deliver him<g ref="char:EOLhyphen"/>self; [Mark] Neither shall he that rideth upon the Horse, and handleth the Sword or Battle-Ax most ex<g ref="char:EOLhyphen"/>quisitely, thereby be inabled <hi>to make his Escape;</hi> and the <hi>Lyon</hi> shall be afraid <hi>of the Lamb,</hi> who must and will have the Victory; and he that may be said to be the Mighti<g ref="char:EOLhyphen"/>est among men, in that day <hi>shall quake,</hi> and the most
+<pb n="7" facs="tcp:204294:7"/>
+               <hi>Couragious</hi> shall <hi>shiver</hi> and <hi>howle;</hi> For the <hi>Lyon</hi> of <hi>Ju<g ref="char:EOLhyphen"/>dah hath <hi>roared,</hi> Who will not fear?</hi> The LORD hath <hi>spoken aloud, who can but Prophesie, that</hi> Babylon, <hi>her</hi> Merchants, Upholders <hi>and</hi> Adherents <hi>shall fall, sink,</hi> and <hi>never rise again?</hi>
+            </p>
+            <p>Wherefore, <hi>O ye fondlings</hi> of all sorts out of the Truth, in the <hi>Set-Forms, Sects</hi> and <hi>Likenesses</hi> whatso<g ref="char:EOLhyphen"/>ver, come out of her <hi>quickly,</hi> before she receive <hi>her fa<g ref="char:EOLhyphen"/>tal plunge:</hi> O ye unwise <hi>prating Virgins,</hi> be silent, make haste, make good speed into, within the Vail, before the impenitrable Door be shut: I say, <hi>Sink down,</hi> turn in to within, to the just measure of God within, (given to every man to profit withall) and hearken there di<g ref="char:EOLhyphen"/>ligently (in the Light) to that still Voice, the Word, the Bread which comes down from Heaven, which will bring to the beginning, from off your own barren Moun<g ref="char:EOLhyphen"/>tain, or stately Edifice (of your own making) into the bread of Life, quite out of the several deficient Cisterns which your own hands have hewn, into the River of Life in your own bellyes, which by your own Inven<g ref="char:EOLhyphen"/>tions is dam'd up: Oh! come out of Words, into the Word, which is nigh in the heart, in the month, that ye may hear, obey and do it, and live for ever: O love that, and let that (the Word) dwell richly in you, which will cut down, and wholly root out the whorish Wo-man within in your selves, which is not permitted to speak in the Church, the which steals the Prophets, Christ's, and his Apostles words; O that's the Clamberer, the Thiefe, and the Robber, that doth not enter in by the Door, the Light, the Life, the Way.</p>
+            <p>I further say to him <hi>that's spotted,</hi> Let him forth<g ref="char:EOLhyphen"/>with in good-will to <hi>Sion, take up the Crosse,</hi> and <hi>cleanse his wrinckled heart,</hi> and try his Reins; yea, I say, (not I, but the Lord) Let him <hi>that's unclean,</hi> wash quickly and throughly in the Cross, by, and with the <hi>living Hysop</hi> in himself; For the Day is at hand, <hi>that
+<pb n="8" facs="tcp:204294:8"/> he who is fil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy,</hi> (with the filthy) <hi>may be filthy still.</hi> Where<g ref="char:EOLhyphen"/>fore in the Eternal fear, let every soul that hath re<g ref="char:EOLhyphen"/>bell'd against the Light, be subject to the higher Pow<g ref="char:EOLhyphen"/>er, and immediately take the first offered wing of the Morning, and flye for his Life <hi>out of Self, into the Life,</hi> which is crucified <hi>in your selves</hi> because of Self; from which the Wo-man, the unprofitable talker, the vain babbler, boasts in the line of another man, (whose Voice the Sheep cannot own) which must not, is not permitted to speak in the Church. Oh <hi>Male</hi> and <hi>Fe<g ref="char:EOLhyphen"/>male, man married or unmarried,</hi> (according to the flesh) ask that question at home, within, of <hi>thy Head,</hi> thy <hi>Husband,</hi> thy <hi>Maker; For that which may be known of God, is manifest in thee.</hi> O Male &amp; Female-man, where<g ref="char:EOLhyphen"/>fore keep thine <hi>to within,</hi> in <hi>thy Head,</hi> and <hi>the Head</hi> of e<g ref="char:EOLhyphen"/>very man is <hi>Christ Jesus:</hi> The Fools Eye <hi>is abroad,</hi> but the wise man's Eye is <hi>within in his Head,</hi> in the one one<g ref="char:EOLhyphen"/>ly, one thing needful, wholly out of the many things, (in which all men sin:) <hi>But he that's born of God,</hi> (and stays within, in God, who is light) <hi>sins not;</hi> and the blessed and sinless JESUS, came <hi>to save</hi> his people <hi>from</hi> (not in) <hi>their sins:</hi> [Mark] And he that's <hi>a Christian,</hi> is <hi>like Christ;</hi> and as he is, so were, and are the Saints in the present evil world. Wherefore all that profess his Name out of the unbelieving hast, make (good) speed into the pure, perfect, holy and sinless Life; yea, let the Godly be like God; be ye perfect, be ye holy as your Heavenly Father is holy.</p>
+            <div type="part">
+               <head>A Word of Encouragement to the Faithful, to be faithful still.</head>
+               <p>ANd ye my Brethren &amp; Sisters, the little despised, op<g ref="char:EOLhyphen"/>pressed Flock, and gathered Seed and Lambs of God the Lord, Keep in your sweet Innocency, in your proper places and sphears, <hi>out of,</hi> and <hi>over all.</hi> Stir not <hi>to the left,</hi> neither look <hi>to the seeming Right;</hi> but out of the di<g ref="char:EOLhyphen"/>strust, even and upright in the Seed, in the Life, in your own keep; ye have been faithful in a little, ye shall be
+<pb n="9" facs="tcp:204294:8"/> Master over much; for the mighty shout of a King is heard <hi>in the midst of us;</hi> the Lord of Hosts <hi>is our Leader,</hi> and the everlasting God of Salvation <hi>is our Rearward;</hi> For by him we have (without Carnal Sword) run thorow a Troop; by him we have gave Battel to a Legion, and by him (the same God) we, the Faithful, shall set our feet upon the Moun<g ref="char:EOLhyphen"/>tains, and leap over the Wall, and through, and over the Seas of Cruelty we must pass; yea, the many Waters must divide, and give <hi>way;</hi> for the God of Strength is <hi>infallibly on our side;</hi> wherefore let not the seeming Giants in the way, or the worst of Tidings at all afright ye; but let the living pass on. And as the Eternal moves, <hi>Thresh <hi>the Mountains,</hi> Trample <hi>upon the Hills,</hi> Rebuke <hi>the Whore,</hi> Chastise <hi>the Di<g ref="char:EOLhyphen"/>viner,</hi>
+                  </hi> and <hi>suffer not the <hi>Witch,</hi>
+                  </hi> or <hi>Poysoner <hi>to live;</hi>
+                  </hi> for, for that purpose hath the Lord <hi>Jehovah</hi> be-trusted his Spiritu<g ref="char:EOLhyphen"/>al Weapon (which is Mighty) into your hands, (and let <hi>the Whore perish,</hi> rather <hi>than your selves wither:</hi>) Do violence <hi>to no man,</hi> seek, and reach to the good in all; In the Dread and Power of God, <hi>preach</hi> the Gospel unto all freely and boldly, in season and out of season, without respect of per<g ref="char:EOLhyphen"/>sons, place or time; committing your righteous Cause to the Father; patiently suffer <hi>all things,</hi> yea, <hi>your selves to be abused,</hi> and your Goods <hi>spoiled;</hi> for Great <hi>is,</hi> and <hi>shall be your Reward,</hi> (and as ye have done) willingly give your backs to the smiter, and your cheeks to have the hair pull'd off: Ye have been men of sorrows, and ever since ye were a people, deeply acquainted with grief; And yet <hi>Alas, alas,</hi> poor precious Seed of God, ye must be tryed, abused, and most shamefully intreated once more. But <hi>wo, wo, wo,</hi> from the Lord God of Heaven and Earth <hi>to them that do it.</hi>
+               </p>
+               <p>This in the motion and fear of the Lord, is transcribed by the hand of me <hi>Edward Billing,</hi> who neither <hi>hates</hi> or <hi>fears</hi> any man, but am a lover of all men in the Lord, being as willing <hi>to dye for</hi> (as to live in) <hi>his truth,</hi> to see the accom<g ref="char:EOLhyphen"/>plishment of what is here declared; whose Prisoner I am (through the Cruelty of unreasonable men) for the Testi<g ref="char:EOLhyphen"/>mony
+<pb n="10" facs="tcp:204294:9"/> of that Eternal Jesus, who saith, <hi>Swear not all.</hi>
+               </p>
+               <p>And I say, <hi>Above all things my Brethren, swear not, <hi>by; to, for,</hi>
+                  </hi> or <hi>against <hi>any man, Thing,</hi>
+                  </hi> or <hi>Creature in Heaven,</hi> or up<g ref="char:EOLhyphen"/>on the <hi>Earth</hi> whatsoever; but let your <hi>yea</hi> be <hi>yea,</hi> and your <hi>nay, nay;</hi> and because of Oaths this Land mourns, and the Curse is intailed upon the House of the Swearers, Lyars and Hypocrites; and they who shall still persist and refuse to hear that Great and Mighty Prophet (which is the per<g ref="char:EOLhyphen"/>formed Oath of God, of whom Oaths were a type) who said, <hi>Swear not at all;</hi> and teach others so to do; It swiftly comes to pass, that they shall be cut off from among the people; <hi>For my spirit shall not always strive with man, saith the Lord.</hi>
+               </p>
+               <p>
+                  <hi>Then will I turn to the People a pure Language, that they may all call upon the Name of the Lord, to serve him with one consent: I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the Name of the Lord. The remnant of Israel shall not do iniquity, nor speak lyes; neither shall a deceitful Tongue be found in their Mouth; for they shall feed, and lye down, and none shall make them afraid. The Lord is in the midst of thee, thou shalt not see evil any more. I will ga<g ref="char:EOLhyphen"/>ther them that are sorrowful, for the solemn Assembly, who are of thee, to whom the reproach of it was a burden. Behold, at that time I wil undo all that afflict thee, and I will save her that hal<g ref="char:EOLhyphen"/>teth, and gather her that was driven out; and I wil get them a praise and fame in every Land where they have been put to shame; at that time will I bring you again, even in the time that I ga<g ref="char:EOLhyphen"/>ther you; for I will make you a Name, and a praise among all People of the Earth, when I turn back your Captivity before your eyes, saith the Lord. Zeph.</hi> 3.9, 12, 13, 15, 18, 19.</p>
+            </div>
+            <closer>
+               <dateline>
+                  <date>The tenth of the tenth Month, 1660.</date>
+               </dateline>
+            </closer>
+            <epigraph>
+               <q>
+                  <p>Arise, Arise, Help, Help, and Deliver for thy Name sake, O Lord our God.</p>
+               </q>
+            </epigraph>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:204294:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
